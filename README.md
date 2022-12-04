@@ -8,8 +8,8 @@ Server for the [SGBus](https://github.com/SlenPlayz/SGBus) app
 4. Run `node index.js` to start the server
 
 ## Credits
- - Data for stops, services and routes taken from [@cheeaun/sgbusdata](https://github.com/cheeaun/sgbusdata) 
- - Arrival timings provided by [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html)
+ - Data for stops, services and routes taken from [@cheeaun/sgbusdata](https://github.com/cheeaun/sgbusdata) 
+ - Arrival timings provided by [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html)
  - Server made with [node.js](https://nodejs.org)
 
 ### Packages used

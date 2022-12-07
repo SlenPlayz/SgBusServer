@@ -1,4 +1,4 @@
-# SGBus server
+# SGBus server (Old use [this](https://github.com/SlenPlayz/SGBus-Server) instead)
 Server for the [SGBus](https://github.com/SlenPlayz/SGBus) app
 
 ## Instructions to host
